@@ -19,4 +19,6 @@ The project studies robust policies for long-horizon farm management under dynam
 
 ## Current status
 
-Five official submissions have completed. The latest recorded public ratings are 1064.2 for C01, 1147.4 for C02, 1115.2 for C03, 895.2 for C04, and 743.5 for C05; all remain provisional while ladder matches continue. See the experiment log for validated versions and public Kaggle Code links.
+Five official submissions have completed. As of 2026-08-01 09:25 UTC, the latest recorded public ratings were 1064.2 for C01, 1147.4 for C02, 1115.2 for C03, 1145.5 for C04, and 1275.0 for C05; all remain provisional while ladder matches continue.
+
+The recommended public release is [C05 Mid Herd 10](https://www.kaggle.com/code/beicicc/kaggriculture-c05-mid-herd-10). Its documented v2 preserves the submitted executable logic while adding the strategy summary, paired validation evidence, source attribution, and limitations.
