@@ -19,4 +19,4 @@ The project studies robust policies for long-horizon farm management under dynam
 
 ## Current status
 
-Four official submissions have completed. The latest recorded public ratings are 1064.2 for C01, 1147.4 for C02, 1000.9 for C03, and 600.0 for C04; all remain provisional while ladder matches continue. See the experiment log for validated versions and public Kaggle Code links.
+Five official submissions have completed. The latest recorded public ratings are 1064.2 for C01, 1147.4 for C02, 1115.2 for C03, 895.2 for C04, and 743.5 for C05; all remain provisional while ladder matches continue. See the experiment log for validated versions and public Kaggle Code links.
