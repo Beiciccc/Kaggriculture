@@ -1,0 +1,22 @@
+# Kaggriculture
+
+Public project repository for the [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture/overview) farming simulation competition.
+
+The project studies robust policies for long-horizon farm management under dynamic prices, limited actions, and head-to-head evaluation. Public versions are documented with reproducible local evaluation summaries and their official competition results.
+
+## Competition setting
+
+- A season lasts 30 in-game days and 720 turns.
+- Policies manage crops, animals, labor, land, inventory, and market orders.
+- Ranking is based on head-to-head wins, losses, and ties rather than final coin margin.
+- Public ratings can change as additional matches are played.
+
+## Repository contents
+
+- `experiments/experiment_log.md`: public experiment and submission record.
+- `data/README.md`: data provenance and redistribution notes.
+- Competition code will be added with the first validated public version.
+
+## Current status
+
+Repository initialized on 2026-08-01. No competition submission has been published from this project yet.
