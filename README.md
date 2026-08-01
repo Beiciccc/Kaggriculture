@@ -15,7 +15,7 @@ The project studies robust policies for long-horizon farm management under dynam
 
 - `experiments/experiment_log.md`: public experiment and submission record.
 - `data/README.md`: data provenance and redistribution notes.
-- Competition code will be added with the first validated public version.
+- Links to validated competition-associated public Kaggle Code versions will be recorded after publication.
 
 ## Current status
 
