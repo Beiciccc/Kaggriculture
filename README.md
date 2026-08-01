@@ -19,4 +19,4 @@ The project studies robust policies for long-horizon farm management under dynam
 
 ## Current status
 
-Repository initialized on 2026-08-01. No competition submission has been published from this project yet.
+One official submission has completed. The latest recorded public rating is 600.0 and remains provisional while ladder matches continue. See the experiment log for the validated version and public Kaggle Code link.
