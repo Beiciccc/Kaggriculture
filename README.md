@@ -19,6 +19,6 @@ The project studies robust policies for long-horizon farm management under dynam
 
 ## Current status
 
-Eight official submissions have completed. As of 2026-08-02 01:10 UTC, the latest recorded public ratings were 1064.2 for C01, 1147.4 for C02, 1115.2 for C03, 1067.2 for C04, 1155.4 for C05, 1252.9 for C06, 1064.5 for C07, and 600.0 for C08; all remain provisional while ladder matches continue.
+Nine official submissions have completed. As of 2026-08-02 01:38 UTC, the latest recorded public ratings were 1064.2 for C01, 1147.4 for C02, 1115.2 for C03, 1067.2 for C04, 1155.4 for C05, 1252.9 for C06, 1326.8 for C07, 1198.4 for C08, and 600.0 for C09; all remain provisional while ladder matches continue.
 
-The current recommended public release is [C06 Scenario Fertilizer](https://www.kaggle.com/code/beicicc/kaggriculture-c06-scenario-fertilizer). [C07 Public V12 Tape](https://www.kaggle.com/code/beicicc/kaggriculture-c07-public-v12-tape) and [C08 Schema-Safe 89308208](https://www.kaggle.com/code/beicicc/kaggriculture-c08-schema-safe-89308208) document two credited public replay reproductions; C08 adds protection against replay-to-state hand-count drift.
+The current recommended public release is [C08 Schema-Safe 89308208](https://www.kaggle.com/code/beicicc/kaggriculture-c08-schema-safe-89308208). [C09 Dynamic Shed](https://www.kaggle.com/code/beicicc/kaggriculture-c09-dynamic-shed) extends C08 with state-aware final-day shed liquidation; paired tests improved or tied C08 on every evaluated seed, while cross-play against C06 remained weaker.
