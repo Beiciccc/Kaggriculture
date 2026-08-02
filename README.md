@@ -19,6 +19,6 @@ The project studies robust policies for long-horizon farm management under dynam
 
 ## Current status
 
-Six official submissions have completed. As of 2026-08-02 00:39 UTC, the latest recorded public ratings were 1064.2 for C01, 1147.4 for C02, 1115.2 for C03, 1067.2 for C04, 1155.4 for C05, and 600.0 for C06; all remain provisional while ladder matches continue.
+Seven official submissions have completed. As of 2026-08-02 00:54 UTC, the latest recorded public ratings were 1064.2 for C01, 1147.4 for C02, 1115.2 for C03, 1067.2 for C04, 1155.4 for C05, 1073.1 for C06, and 600.0 for C07; all remain provisional while ladder matches continue.
 
-The mature recommended public release is [C05 Mid Herd 10](https://www.kaggle.com/code/beicicc/kaggriculture-c05-mid-herd-10). The newer [C06 Scenario Fertilizer](https://www.kaggle.com/code/beicicc/kaggriculture-c06-scenario-fertilizer) dominated C05 in paired local tests, but was only near-even against a newer public Frontier V12 replay and has only an initial ladder rating so far.
+The mature recommended public release is [C05 Mid Herd 10](https://www.kaggle.com/code/beicicc/kaggriculture-c05-mid-herd-10). The newer [C06 Scenario Fertilizer](https://www.kaggle.com/code/beicicc/kaggriculture-c06-scenario-fertilizer) and [C07 Public V12 Tape](https://www.kaggle.com/code/beicicc/kaggriculture-c07-public-v12-tape) have broader paired evidence, but their ladder ratings are still early and volatile.
